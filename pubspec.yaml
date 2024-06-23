@@ -1,7 +1,7 @@
 name: flutter_vertical_tab_bar
 description: "A Flutter package for vertical tab bars."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Aburafik/Flutter-Vertical-TabBar"
 
 environment:
   sdk: '>=3.4.3 <4.0.0'

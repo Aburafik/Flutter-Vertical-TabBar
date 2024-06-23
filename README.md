@@ -21,7 +21,7 @@ Add the following line to your `pubspec.yaml` file under dependencies:
 
 ```yaml
 dependencies:
-  vertical_tabbar_pro: ^1.0.0
+  flutter_vertical_tab_bar: ^0.0.1
 
   ```
 
